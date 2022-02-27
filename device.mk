@@ -4,10 +4,12 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+# TODO: check
 # Inherit virtual_ab_ota product
 $(call inherit-product, \
     $(SRC_TARGET_DIR)/product/virtual_ab_ota.mk)
 
+# TODO: Check
 # A/B
 PRODUCT_PACKAGES += \
     android.hardware.boot@1.1-impl-qti \

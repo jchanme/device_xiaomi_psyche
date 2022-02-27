@@ -22,6 +22,6 @@ PRODUCT_NAME := aosp_psyche
 PRODUCT_DEVICE := psyche
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Xiaomi Mi 12X
+PRODUCT_MODEL := Xiaomi 12X
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
